@@ -1,8 +1,7 @@
-# React + Vite
+# React 게시판 프로젝트 (Vite 사용)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+이 프로젝트는 Vite, React, React Router, React Bootstrap을 사용하여 만든 게시판 애플리케이션입니다. 회원가입 페이지, 로그인 페이지, 기본적인 게시판 페이지의 라우팅 설정이 포함되어 있습니다.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**#예시
+**
+![image](https://github.com/ijustwannabeme/Vite_Board/assets/83602306/8eacda23-c1bf-47f7-b1f7-856308da94c0)
